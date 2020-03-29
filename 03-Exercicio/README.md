@@ -3,7 +3,7 @@
 
 
 1. Os Nomes de todos os recursos criados devem conter o workspace.
-2. Crie um ambiente de Homol e um Dev
+2. Crie um ambiente de Dev
 3. Cada ambiente deve ter seu próprio repósitorio de imagem
 4. Ao fazer o deploy, deve ser refletida branch com o mesmo nome do workspace
 5. Serão ambiente com insfraestrutura diferentes
